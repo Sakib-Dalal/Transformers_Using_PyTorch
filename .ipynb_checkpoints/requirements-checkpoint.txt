@@ -1,0 +1,5 @@
+# Minimal requirements for running Transformers.ipynb
+jupyterlab
+jupyter
+torch
+numpy
